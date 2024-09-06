@@ -1,4 +1,4 @@
-export const perguntas = [
+const perguntas = [
     {
         enunciado: "Estudar é um procedimento que exige disciplina, rigor, sentido de dever e responsabilidade. O aluno deve perceber significado no ato de estudar, reconhecer que o estudo irá lhe trazer um benefício, ou seja, estudar vale a pena. Você considera que estudar é importante?",
         alternativas: [
@@ -91,5 +91,5 @@ export const perguntas = [
                 ],
             },
         ]
-    },
+    }
 ];
